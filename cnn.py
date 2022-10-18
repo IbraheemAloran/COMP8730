@@ -7,7 +7,7 @@ from tensorflow.keras import layers
 import matplotlib.pyplot as plt
 
 #parameters
-learningRate = 0.001
+learningRate = 0.01
 batch = 64
 epochs = 10
 imgSize = (28,28,1)
